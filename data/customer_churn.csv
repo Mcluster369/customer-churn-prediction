@@ -1,1 +1,21 @@
 customer_id,tenure,monthly_charges,total_charges,contract,churn
+1,1,29.85,29.85,Month-to-month,Yes
+2,34,56.95,1889.5,One year,No
+3,2,53.85,108.15,Month-to-month,Yes
+4,45,42.30,1840.75,Two year,No
+5,8,70.70,565.60,Month-to-month,Yes
+6,22,89.10,1960.20,One year,No
+7,10,99.65,996.50,Month-to-month,Yes
+8,60,65.20,3912.00,Two year,No
+9,15,75.30,1129.50,Month-to-month,Yes
+10,72,80.10,5767.20,Two year,No
+11,5,45.25,226.25,Month-to-month,Yes
+12,50,67.80,3390.00,One year,No
+13,3,88.40,265.20,Month-to-month,Yes
+14,36,72.50,2610.00,One year,No
+15,7,90.00,630.00,Month-to-month,Yes
+16,55,58.75,3231.25,Two year,No
+17,12,82.10,985.20,Month-to-month,Yes
+18,40,60.30,2412.00,One year,No
+19,4,95.20,380.80,Month-to-month,Yes
+20,65,77.90,5063.50,Two year,No
